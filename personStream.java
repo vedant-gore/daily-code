@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class person {
+public class personStream {
     public static void main(String[] args) {
         List<Person> people = new ArrayList<>();
         people.add(new Person("Alice", 25));
